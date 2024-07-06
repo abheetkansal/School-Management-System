@@ -1,0 +1,18 @@
+{
+    "spendings": 0,
+    "balance": 0,
+    "transcripts": [],
+    "professors": [{
+        "name": "aha",
+        "salaryRecieved": 0,
+        "id": 1,
+        "salary": 1000
+    }],
+    "students": [{
+        "totalTuition": 30000,
+        "name": "abheet",
+        "paidTuition": 0,
+        "id": 23,
+        "faculty": "Science"
+    }]
+}

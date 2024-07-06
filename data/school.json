@@ -1,0 +1,64 @@
+{
+    "spendings": 20000,
+    "balance": 40100,
+    "transcripts": [
+        {
+            "studentID": 1,
+            "chemistry": 23,
+            "economics": 0,
+            "accountancy": 0,
+            "geography": 0,
+            "physics": 67,
+            "civics": 0,
+            "english": 98,
+            "businessStudies": 0,
+            "math": 10,
+            "history": 0,
+            "computerScience": 50
+        },
+        {
+            "studentID": 2,
+            "chemistry": 0,
+            "economics": 0,
+            "accountancy": 0,
+            "geography": 0,
+            "physics": 0,
+            "civics": 0,
+            "english": 0,
+            "businessStudies": 0,
+            "math": 0,
+            "history": 0,
+            "computerScience": 0
+        }
+    ],
+    "professors": [
+        {
+            "name": "Paul",
+            "salaryRecieved": 0,
+            "id": 1,
+            "salary": 100000
+        },
+        {
+            "name": "Gregor",
+            "salaryRecieved": 20000,
+            "id": 2,
+            "salary": 20000
+        }
+    ],
+    "students": [
+        {
+            "totalTuition": 30000,
+            "name": "Abheet",
+            "paidTuition": 30000,
+            "id": 1,
+            "faculty": "Science"
+        },
+        {
+            "totalTuition": 30000,
+            "name": "John",
+            "paidTuition": 30000,
+            "id": 2,
+            "faculty": "Commerce"
+        }
+    ]
+}
